@@ -1,7 +1,7 @@
 # Fashion MNIST – Klassificering av klädesplagg
 
 ## Krav
-- Python 3.13.7
+Python 3.13
 
 ## Om projektet
 Vi har byggt en modell som klassificerar klädesplagg från Fashion MNIST-datasetet.
@@ -18,3 +18,11 @@ Fokusområde: optimering och learning rate.
 ## Resultat
 Adam: 88.14%, AdamW: 87.58%, SGD+Momentum: 87.42%, SGD: 85.08%, SGD (låg lr): 79.39%
 Bästa optimerare: Adam. CNN-modellen uppnådde 89.9% accuracy.
+
+## Team
+Daniel
+Anarkoli
+Nora
+Victoria
+Katja
+Elisabeth
